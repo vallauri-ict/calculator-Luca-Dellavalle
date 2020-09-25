@@ -1,9 +1,0 @@
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\bin\Debug\CalculatorFormProject.exe.config
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\bin\Debug\CalculatorFormProject.exe
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\bin\Debug\CalculatorFormProject.pdb
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.csprojAssemblyReference.cache
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.FormMain.resources
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.Properties.Resources.resources
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.csproj.GenerateResource.cache
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.exe
-C:\Users\Luca Dellavalle\Desktop\CalculatorSolution\CalculatorFormProject\obj\Debug\CalculatorFormProject.pdb
